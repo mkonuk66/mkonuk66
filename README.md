@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi there 👋
+### I am Mehmet Emin KONUK
+##### I am currently a 3rd year student of Ondokuz Mayıs University Computer Engineering.
 
-<!--
-**mkonuk66/mkonuk66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I am currently working on my annual projects and my own projects.
+- 🌱 I want to learn as much technology as I can right now.
+- 📫 How to reach me: 
+[![Twitter: mkonuk66](https://img.shields.io/twitter/follow/mkonuk66?label=Follow%20me&style=social)](https://twitter.com/mkonuk66)
+[![Linkedin: mkonuk66](https://img.shields.io/badge/-mkonuk66-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mkonuk66/)](https://www.linkedin.com/in/mkonuk66)
+[![GitHub mkonuk66](https://img.shields.io/github/followers/mkonuk66?label=Follow%20me&style=social)](https://github.com/mkonuk66)
 
-Here are some ideas to get you started:
+-----------------
+# Herkese merhaba 👋
+### Ben Mehmet Emin KONUK
+##### Halen Ondokuz Mayıs Üniversitesi, Bilgisayar Mühendisliği, 3.Sınıf öğrencisiyim.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Şu anda yıllık ödevlerim ve kendi projelerim üzerinde çalışıyorum.
+- 🌱 Elimden geldiği kadar fazla teknolojiyi öğrenmek istiyorum.
+- 📫 Bana bu linklerden ulaşabilirsiniz: 
+[![Twitter: mkonuk66](https://img.shields.io/twitter/follow/mkonuk66?label=Follow%20me&style=social)](https://twitter.com/mkonuk66)
+[![Linkedin: mkonuk66](https://img.shields.io/badge/-mkonuk66-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mkonuk66/)](https://www.linkedin.com/in/mkonuk66)
+[![GitHub mkonuk66](https://img.shields.io/github/followers/mkonuk66?label=Follow%20me&style=social)](https://github.com/mkonuk66)
