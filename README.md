@@ -1,3 +1,4 @@
+
 <h1>Hi there 👋</h1>
 <h3> I am Mehmet Emin KONUK</h3>
 <h5> I am currently a 4rd year student of Ondokuz Mayıs University Computer Engineering.</h5>
@@ -21,6 +22,13 @@
   </a>
 </p>
 </ul>
+
+<p align="center">
+	<a href="https://github.com/mkonuk66">
+		  <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api?username=mkonuk66&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="mkonuk66"/>
+		  <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mkonuk66&show_icons=true&locale=en&layout=compact&langs_count=8" alt="mkonuk66"/>
+	</a>
+</p>
 
 <hr />
 
@@ -48,3 +56,9 @@
 </p>
 </ul>
 
+<p align="center">
+	<a href="https://github.com/mkonuk66">
+		  <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api?username=mkonuk66&show_icons=true&locale=tr&include_all_commits=true&count_private=true" alt="mkonuk66"/>
+		  <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mkonuk66&show_icons=true&locale=tr&layout=compact&langs_count=8" alt="mkonuk66"/>
+	</a>
+</p>
