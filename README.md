@@ -1,11 +1,9 @@
 
 <h1>Hi there 👋</h1>
 <h3> I am Mehmet Emin KONUK</h3>
-<h5> I am currently a 4rd year student of Ondokuz Mayıs University Computer Engineering.</h5>
+<h5> I am working as a Computer Engineer at SDataM Information Technologies and Security Limited Company.</h5>
 
 <ul>
-  <li>🔭 I am currently working on my annual projects and my own projects.</li>
- <li>🌱 I want to learn as much technology as I can right now.</li>
  <li>📫 How to reach me: </li>
   <p align="center">
   <a href="https://www.linkedin.com/in/mkonuk66/">
@@ -34,11 +32,9 @@
 
 <h1> Herkese merhaba 👋</h1>
 <h3>Ben Mehmet Emin KONUK</h3>
-<h5> Halen Ondokuz Mayıs Üniversitesi, Bilgisayar Mühendisliği, 4.Sınıf öğrencisiyim.</h5>
+<h5>SDataM Bilişim Teknolojileri ve Güvenliği Limited Şirketinde Bilgisayar Mühendisi olarak çalışıyorum.</h5>
 
 <ul>
-  <li>🔭 Şu anda yıllık ödevlerim ve kendi projelerim üzerinde çalışıyorum.</li>
- <li>🌱 Elimden geldiği kadar fazla teknolojiyi öğrenmek istiyorum.</li>
  <li>📫 Bana bu linklerden ulaşabilirsiniz: </li>
   <p align="center">
   <a href="https://www.linkedin.com/in/mkonuk66/">
