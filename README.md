@@ -1,7 +1,7 @@
 
 <h1>Hi there 👋</h1>
 <h3> I am Mehmet Emin KONUK</h3>
-<h5> I am working as a Computer Engineer at SDataM Information Technologies and Security Limited Company.</h5>
+<h5> I am working as a Lecturer at Yozgat Bozok University</h5>
 
 <ul>
  <li>📫 How to reach me: </li>
@@ -32,7 +32,7 @@
 
 <h1> Herkese merhaba 👋</h1>
 <h3>Ben Mehmet Emin KONUK</h3>
-<h5>SDataM Bilişim Teknolojileri ve Güvenliği Limited Şirketinde Bilgisayar Mühendisi olarak çalışıyorum.</h5>
+<h5>Yozgat Bozok Üniversitesinde Öğretim Görevlisi olarak çalışıyorum.</h5>
 
 <ul>
  <li>📫 Bana bu linklerden ulaşabilirsiniz: </li>
